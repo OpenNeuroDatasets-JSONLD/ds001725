@@ -1,0 +1,32 @@
+{
+ "Manufacturer": "Bruker BioSpin MRI GmbH",
+ "RepetitionTime": 1.5,
+ "EchoTime": 0.0115208,
+ "FlipAngle": 60.0,
+ "NumberOfVolumesDiscardedByScanner": 9,
+ "TaskName": "rest",
+ "PulseSequenceType": "T2S_EPI",
+ "SliceEncodingDirection": "j",
+ "SliceTiming": [
+        1.425,
+        0.675,
+        0.425,
+        0.3,
+        0.225,
+        0.175,
+        0.1392857143,
+        0.1125,
+        0.0916666667,
+        0.075,
+        0.0613636364,
+        0.05,
+        0.0403846154,
+        0.0321428571,
+        0.025,
+        0.01875,
+        0.0132352941,
+        0.0083333333,
+        0.0039473684,
+        0
+    ]
+}
